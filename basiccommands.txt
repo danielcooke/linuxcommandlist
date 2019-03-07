@@ -28,5 +28,4 @@ env
 kill
 git clone
 git checkout -b iss53
-touch       (creates a file)
-locate      (finds a file)
+sudo apt-get update
